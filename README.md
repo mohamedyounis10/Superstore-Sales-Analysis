@@ -29,7 +29,7 @@
 - [Results 📊](#results)
 - [Dashboard 🖥️](#dashboard)
 - [How to Run ▶️](#how-to-run)
-- [Acknowledgments🙏](#ccknowledgments-)
+- [Acknowledgments🙏](#acknowledgments-)
 - [Author ✍️](#author-️)
 
 ---
@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/e3c71616-54de-4b56-acb8-5e35afd6f713
 
 
 ---
-<a id="ccknowledgments"></a>
+<a id="acknowledgments"></a>
 ## Acknowledgments🙏
 
 This project was developed as part of a training program at **Elevvo**. I would like to express my gratitude to the instructors for their guidance and for providing this opportunity to work on real-world datasets.
@@ -150,4 +150,5 @@ Open `notebook.ipynb` 📒 to see the full analysis.
 ## Author ✍️
 
 - **Name**: Mohammed Younis 
+
 
