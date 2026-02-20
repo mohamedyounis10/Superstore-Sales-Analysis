@@ -30,7 +30,6 @@
 - [Dashboard 🖥️](#dashboard)
 - [How to Run ▶️](#how-to-run)
 - [Author ✍️](#author-️)
-- [Acknowledgements 🙏](#acknowledgements-)
 
 ---
 
@@ -149,3 +148,4 @@ Open `notebook.ipynb` 📒 to see the full analysis.
 
 - **Internship 🏢**: [Uneeq Interns](https://www.linkedin.com/company/uneeq-interns/)
 - **Special thanks 💛**: [Mahmoud Refaey](https://www.linkedin.com/in/mahmoud-refaey-439ba5232/) - [Ahmed Elhfnawi](https://www.linkedin.com/in/ahmed-elhfnawi/)
+
