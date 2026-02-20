@@ -142,10 +142,3 @@ Open `notebook.ipynb` 📒 to see the full analysis.
 - **Name**: Mohammed Younis 
 
 ---
-
-<a id="acknowledgements"></a>
-## Acknowledgements 🙏
-
-- **Internship 🏢**: [Uneeq Interns](https://www.linkedin.com/company/uneeq-interns/)
-- **Special thanks 💛**: [Mahmoud Refaey](https://www.linkedin.com/in/mahmoud-refaey-439ba5232/) - [Ahmed Elhfnawi](https://www.linkedin.com/in/ahmed-elhfnawi/)
-
