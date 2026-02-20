@@ -29,6 +29,7 @@
 - [Results 📊](#results)
 - [Dashboard 🖥️](#dashboard)
 - [How to Run ▶️](#how-to-run)
+- [Acknowledgments🙏](#ccknowledgments-)
 - [Author ✍️](#author-️)
 
 ---
@@ -113,8 +114,17 @@ An interactive **Power BI Dashboard** is included to provide a visual breakdown 
 
 Check [`Dashboard/Sales.pbix`](file:///c:/Users/moham/Desktop/Elevvo/Superstore%20Sales/Dashboard/Sales.pbix) to explore the interactive report.
 
----
 
+https://github.com/user-attachments/assets/e3c71616-54de-4b56-acb8-5e35afd6f713
+
+
+---
+<a id="ccknowledgments"></a>
+## Acknowledgments🙏
+
+This project was developed as part of a training program at **Elevvo**. I would like to express my gratitude to the instructors for their guidance and for providing this opportunity to work on real-world datasets.
+
+---
 <a id="how-to-run"></a>
 ## How to Run ▶️
 
@@ -140,3 +150,4 @@ Open `notebook.ipynb` 📒 to see the full analysis.
 ## Author ✍️
 
 - **Name**: Mohammed Younis 
+
