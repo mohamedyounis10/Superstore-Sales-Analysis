@@ -113,6 +113,10 @@ An interactive **Power BI Dashboard** is included to provide a visual breakdown 
 
 Check [`Dashboard/Sales.pbix`](file:///c:/Users/moham/Desktop/Elevvo/Superstore%20Sales/Dashboard/Sales.pbix) to explore the interactive report.
 
+
+https://github.com/user-attachments/assets/d575cfea-4f58-44dd-9c7a-bc9012721b71
+
+
 ---
 
 <a id="how-to-run"></a>
@@ -142,3 +146,4 @@ Open `notebook.ipynb` 📒 to see the full analysis.
 - **Name**: Mohammed Younis 
 
 ---
+
